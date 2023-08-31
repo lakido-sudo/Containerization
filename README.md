@@ -16,4 +16,4 @@
 #### WebApp: Python (Flask)
 1.Запуск, проверка
 
-![](source/web_app_1.png)
+![](source/web_app.png)
