@@ -1,6 +1,6 @@
 # Контейнеризация (Containerization)
    
-![](sourse/containers.png)
+![](sourse/containers.jpg)
 
 ## Docker Compose и Docker Swarm
 
