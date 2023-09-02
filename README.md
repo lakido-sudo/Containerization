@@ -13,7 +13,7 @@
 
 ### Реализация:
 
-#### WebApp: Python (Flask)
+#### WebApp: Python (Flask); DB: PostgreSQL 
 1.Запуск, проверка
 
 ![](source/web_app.png)
