@@ -14,7 +14,7 @@
 ### Реализация:
 
 #### WebApp: Python (Flask)
-#### DB: PostgreSQL 
+
 1.Запуск, проверка
 
 ![](source/web_app.png)
@@ -22,3 +22,5 @@
 2.Dockerfile, сборка
 
 ![](source/web_app_cont.png)
+
+#### DB: PostgreSQL 
